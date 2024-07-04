@@ -4,11 +4,11 @@ Task 2
 '''
 
 
-from math import floor
+import math
 
 
 def floor(a: float) -> int:
     '''
     Returns a floored float
     '''
-    return floor(a)
+    return math.floor(a)
