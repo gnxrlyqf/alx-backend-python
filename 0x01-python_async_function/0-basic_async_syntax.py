@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-'''
+"""
     Task 0
-'''
+"""
 
 # from random import random
 # from asyncio import sleep
